@@ -2,8 +2,6 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
-I make elegantly professional 💻⎈🐳 **Distributed Infrastructure / Kubernetes** ☁️ **Cloud Native** 📝 **DeFi Smart Contract** and 🌐 **Website** for a living and also **Write some blogs**. 🌈    
-
 * 🧐   Interested in front-end. Recent attention to infrastructure.
 * 💼   Used to be a front-end intern at Dongwu Securities, but now I am a student at Hebei University.
 * 💻   With 1 year of front-end development experience.
