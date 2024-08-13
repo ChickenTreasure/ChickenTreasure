@@ -5,10 +5,10 @@
 Hi！ i am treasure 
 A Front-end infrastructure and engineering efficiency developer. Open Source Enthusiast😊 
 
-Hello，我是宝，一名热爱技术和开源的24届准前端工程师，就读于河北大学(本科)![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
+Hello，我是宝，一名热爱技术和开源的24届准前端工程师，就读于河北大学(本科)
 
 -   全职工作：
--       腾讯云智 - 地图产品工作室 - Focus on 腾讯地图app 腾讯地图小程序
+-      腾讯云智 - 地图产品工作室 - Focus on 腾讯地图app 腾讯地图小程序
   
 -   学习前端的时间：2022.6.23 -- 至今
   
@@ -18,5 +18,6 @@ Hello，我是宝，一名热爱技术和开源的24届准前端工程师，就�
 
 
 ## 努力努力再努力✨✨✨
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChickenTreasure&show_icons=true&theme=tokyonight)](https://github.com/ChickenTreasure/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChickenTreasure&show_icons=true&theme=neon)](https://github.com/ChickenTreasure/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
