@@ -20,4 +20,4 @@ Hello，我是宝，一名热爱技术和开源的24届准前端工程师，就�
 ## 努力努力再努力✨✨✨
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChickenTreasure&show_icons=true&theme=neon)](https://github.com/ChickenTreasure/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&show_icons=true&theme=neon)](https://github.com/anuraghazra/github-readme-stats)
