@@ -2,22 +2,42 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
-Hi！ i am treasure 
-A Front-end infrastructure and engineering efficiency developer. Open Source Enthusiast😊 
+## About Me
 
-Hello，我是宝，一名热爱技术和开源的24届前端工程师，毕业于河北大学(本科)
+Hi, I'm allenjia.
 
--   全职工作：
--      腾讯云科技股份有限公司 - 地图产品工作室 - Focus on 腾讯地图app 腾讯地图小程序
-  
--   学习前端的时间：2022.6.23 -- 至今
-  
-    -   这是我的个人语雀博客：[点击进入](https://www.yuque.com/mashangyou-enl2s)  
+一名前端开发工程师，持续关注前端基础能力、工程效率与用户体验，也始终保持着对技术与开源的热爱。
 
-    -   这是我的牛客：[点击进入](https://www.nowcoder.com/users/865089147)  
+目前在一家工业机器人公司从事前端开发工作，主要围绕业务系统建设、工程化协作和前端体验优化持续投入。
 
+我喜欢把复杂问题拆解清楚，把体验做得自然，把开发流程打磨得更顺手一点。
 
-## 努力努力再努力✨✨✨
+### Experience
+
+- 腾讯云科技股份有限公司（2024.3 - 2026.5）
+  地图产品工作室，主要参与腾讯地图 App 与腾讯地图小程序相关前端开发工作
+
+- （2026.6-至今）目前就职于一家工业机器人公司，负责前端开发相关工作
+
+### What I Focus On
+
+- 前端工程化与研发效率提升
+- 复杂业务系统的交互体验与可维护性建设
+- 性能优化、组件抽象与基础能力沉淀
+- 用更稳定、更清晰的方式推动团队协作
+
+### Currently
+
+- 持续深耕工业软件场景下的前端开发实践
+- 关注业务系统建设、工程化方案与用户体验优化
+- 保持对技术分享与开源内容的长期兴趣
+
+### Find Me
+
+- Yuque Blog: [点击进入](https://www.yuque.com/mashangyou-enl2s)
+- Nowcoder: [点击进入](https://www.nowcoder.com/users/865089147)
+
+## 努力努力再努力 ✨
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChickenTreasure&show_icons=true&theme=neon)](https://github.com/ChickenTreasure/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&show_icons=true&theme=neon)](https://github.com/anuraghazra/github-readme-stats)
