@@ -8,7 +8,7 @@ A Front-end infrastructure and engineering efficiency developer. Open Source Ent
 Hello，我是宝，一名热爱技术和开源的24届前端工程师，毕业于河北大学(本科)
 
 -   全职工作：
--      腾讯云智 - 地图产品工作室 - Focus on 腾讯地图app 腾讯地图小程序
+-      腾讯云科技股份有限公司 - 地图产品工作室 - Focus on 腾讯地图app 腾讯地图小程序
   
 -   学习前端的时间：2022.6.23 -- 至今
   
