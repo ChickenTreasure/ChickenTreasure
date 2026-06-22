@@ -38,6 +38,6 @@ Hi, I'm allenjia.
 - Nowcoder: [点击进入](https://www.nowcoder.com/users/865089147)
 
 ## 努力努力再努力 ✨
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChickenTreasure&show_icons=true&theme=neon)](https://github.com/ChickenTreasure/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jia-allen&show_icons=true&theme=neon)](https://github.com/jia-allen/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&show_icons=true&theme=neon)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jia-allen&layout=pie&show_icons=true&theme=neon)](https://github.com/jia-allen/github-readme-stats)
